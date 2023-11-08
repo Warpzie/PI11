@@ -1,0 +1,8 @@
+c1 = int(input("zadaj 1. cislo"))
+c2 = int(input("zadaj 2. cislo"))
+operacia = input("co chces s tymito cislami robit?")
+if operacia == "+" :print("sucet ",c1+c2)
+elif operacia == "-" :print("rozdiel",c1-c2)
+elif operacia == "*":print("nasobok",c1*c2)
+elif operacia == "/":print("podiel",c1/c2)
+else :print("tuto operaciu neviem vykonat")

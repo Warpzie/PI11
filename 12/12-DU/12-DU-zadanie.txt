@@ -1,0 +1,2 @@
+1. dokoncit domdzeg
+2. novy file s kodom z 11 du a upravit tak aby sa meno opakovalo

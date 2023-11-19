@@ -6,6 +6,7 @@ canvas.pack()
 x = 10
 y = 10
 d = 20
+
 #A
 canvas.create_rectangle (x, y+d, x+d, y + (7*d), fill= "black")
 canvas.create_rectangle(x+d, y, x + (4*d), y +d,fill="black")

@@ -2,6 +2,7 @@ import tkinter, random
 
 canvasWidth = 300
 canvasHeight = 300
+
 canvas = tkinter.Canvas(width=canvasWidth,height=canvasHeight)
 canvas.pack()
 

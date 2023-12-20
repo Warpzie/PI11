@@ -18,3 +18,4 @@ for i in range (200):
     farba = f"#{r:02x}{g:02x}{b:02x}"
     canvas.create_oval(x-polomer, y-polomer, x + polomer, y + polomer, fill=farba)
 canvas.mainloop()
+

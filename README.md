@@ -9,3 +9,7 @@ fucking eepy mal som si hellko kupit
 akoze ja som nechcel tak zaspat fr dpc a uz aj 2. raz dnes
 
 sa tu odpalim or sumn 
+
+zatial niesom eepy ale uvidime kolko mi to vydrzi
+
+ale bezier game je fun ale zaroven pain(moja avg praca na hodine)

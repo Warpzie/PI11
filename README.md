@@ -13,3 +13,9 @@ sa tu odpalim or sumn
 zatial niesom eepy ale uvidime kolko mi to vydrzi
 
 ale bezier game je fun ale zaroven pain(moja avg praca na hodine)
+
+tak toto je pekny bs 
+
+mf turtla
+
+eepy a fucking soplik mam :< A VRECKOVKU NIKTO NEMA ASI FFS

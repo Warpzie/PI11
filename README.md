@@ -19,3 +19,7 @@ tak toto je pekny bs
 mf turtla
 
 eepy a fucking soplik mam :< A VRECKOVKU NIKTO NEMA ASI FFS
+
+haha uhm co mam robit???
+
+mam monstrik :>>>

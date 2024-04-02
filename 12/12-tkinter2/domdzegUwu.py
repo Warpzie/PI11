@@ -14,3 +14,4 @@ canvas.create_rectangle(x + (d//4), y + (d//4),x + 3*(d//4), y + 3*(d//4))
 canvas.create_line(x + (d//2), y + (d//4),x + (d//2), y + 3*(d//4))
 canvas.create_line(x + (d//4), y + (d//2), x + 3*(d//4), y + (d//2))
 canvas.mainloop()
+

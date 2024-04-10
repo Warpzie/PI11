@@ -1,0 +1,11 @@
+range options - for i in range(prvy,posledny,-1):  (-1 pre od konca)
+
+\n - nový riadok  \t - tabulátor   \' - apostrof  \" - úvodzovka   \\ - opačná lomka
+
+reverse string  - text = text[::-1]
+
+print posledny znak(odzadu) - print(text[-1])
+
+slice string - text[prvý : zaposledný]
+
+string options - text[prvý : zaposledný : krok]

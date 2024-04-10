@@ -23,3 +23,5 @@ eepy a fucking soplik mam :< A VRECKOVKU NIKTO NEMA ASI FFS
 haha uhm co mam robit???
 
 mam monstrik :>>>
+
+dnes alergie wildin trosku ale mainly na prvej hodine uz to je better hopefully to tak aj ostane
